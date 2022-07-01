@@ -1,7 +1,7 @@
 # quem-esta-assistindo-netflix
 
 
-# 💡 Clone Netflix, pagina "quem está assistindo netflix?"
+# 💡 Clone Netflix, pagina "quem está assistindo?"
 
 #### Fui assistir uma serie, e me deparei com essa tela, com isso me veio a ideia de tentar replicar ela usando apenas HTML E CSS, a interface é bem simples. porem é bom pra treinar os elementos do HTML e CSS e testando a responsividade.  
 
