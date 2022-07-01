@@ -3,7 +3,7 @@
 
 # 💡 Clone Netflix, pagina "quem está assistindo?"
 
-#### Fui assistir uma serie, e me deparei com essa tela, com isso me veio a ideia de tentar replicar ela usando apenas HTML E CSS, a interface é bem simples. porem é bom pra treinar os elementos do HTML e CSS, testando a responsividade.  
+#### Fui assistir uma serie, e me deparei com essa tela, com isso me veio a ideia de tentar replicar ela usando apenas HTML E CSS, a interface é bem simples. porem é bom pra treinar os elementos do HTML e CSS, aplicando a responsividade.  
 
 #Demo <a href="https://joaofernandesxd.github.io/quem-esta-assistindo-netflix/">Acessar</a>
 
